@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.content {
+    background: #fff;
+    padding: 35px;
+}
+.check-describe {
+    min-height: 100px;
+}

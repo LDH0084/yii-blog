@@ -1,0 +1,35 @@
+@charset "UTF-8";
+.introduce-box h2 {
+    margin-bottom: 30px;
+}
+.introduce-box h2 a {
+    display: inline-block;
+    color: #333;
+    padding: 0 20px;
+    border-bottom: 2px solid #777;
+}
+.introduce-box h2 a:hover {
+    text-decoration: none;
+}
+.introduce-box-n {
+    margin-bottom: 80px;
+
+}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    min-height: 250px;
+}
+.text-link {
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+.text-link strong {
+    color: #333;
+    margin-right: 15px;
+}
+.text-link a {
+    margin-right: 15px;
+    color: #555;
+}
+.word-box p {
+    line-height: 200%;
+}

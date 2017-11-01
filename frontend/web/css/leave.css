@@ -1,0 +1,153 @@
+@charset "UTF-8";
+.leave-content {
+    padding: 20px 30px;
+    background: #fff;
+    margin-bottom: 15px;
+    position: relative;
+    border-radius: 5px;
+}
+.nav-tabs a:focus {
+    outline:none;
+}
+.comment-details {
+    padding: 10px 10px 0 10px;
+    margin-top: 15px;
+    border-bottom: 1px dashed #ccc;
+}
+.comment-face {
+
+}
+.comment-face img {
+    width: 45px;
+    height: 45px;
+}
+.comment-account {
+    margin-bottom: 5px;
+}
+.comment-content,.comment-other {
+    font-size: 14px;
+    line-height: 1.5em;
+    margin: 0.5em 0;
+    word-wrap: break-word;
+    color: #666;
+}
+.comment-other a {
+    font-size: 12px;
+    background-color: transparent;
+    color: #999;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.15s linear 0s;
+    margin-left: 10px;
+}
+.comment-page {
+
+}
+.comment-user-other {
+    color: #96CDCD;
+    font-size: 12px;
+}
+.comment-signature {
+    color: #8B6914;
+    font-size: 12px;
+}
+
+
+
+
+.webs-right {
+    background: #fff;
+    float: left;
+    width: 100%;
+    padding: 20px 20px;
+    margin-bottom: 10px;
+}
+.webs-right h3 {
+    font-size: 15px;
+    color: #2aabd2;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 15px;
+}
+.webs-owner .media a img {
+    width: 50px;
+    height: 50px;
+}
+.webs-owner .media h4 {
+    color: #00b3ee;
+    font-size: 14px;
+}
+.webs-adv img {
+    margin-bottom: 10px;
+}
+.types-box h5 {
+    margin-top: 5px;
+}
+.types-box h5, .types-box h5 a {
+    color: #666;
+    display: block;
+}
+.types-box h5 a:hover, .types-box p a:hover {
+    color: #4F94CD;
+}
+.types-box p a {
+    color: #666;
+    display: block;
+    padding-left: 15px;
+}
+.hots-article li {
+    line-height: 180%;
+}
+.hots-article li a {
+    color: #666;
+    display: block;
+}
+.hots-article li a:hover {
+    color: #4F94CD;
+}
+.keyword {
+    color: #E94C4C;
+    font-weight: bold;
+}
+.webs-adv img {
+    width: 100%;
+}
+.site-apply-link {
+    font-size: 12px;
+
+}
+.site-link {
+    background: #ff6666;
+    color: #fff;
+    padding: 2px 5px;
+    font-size: 12px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+.site-link:hover {
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:767px) {
+
+}
